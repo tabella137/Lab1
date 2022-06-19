@@ -4,3 +4,8 @@ def user_age():
   
 if __name__ == "__main__":
   get_age()
+
+def helloWorld():
+	print('Hello World')
+
+helloWorld()
